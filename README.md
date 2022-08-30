@@ -1,2 +1,2 @@
-# proyecto
-este repositorio gestiona el codigo fuente 
+# html-basic
+Just a kick off for the web development process
